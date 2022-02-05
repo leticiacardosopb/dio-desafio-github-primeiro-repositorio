@@ -1,2 +1,8 @@
 Link para donwload do Git: https://git-scm.com/downloads
 O git Bash é um terminal extendido para otimizar o uso do Git.
+PARA COLOCAR O ARQUIVO DA WEB NO PC E VICE-VERSO
+* Quando eu colocar git status e a máquina vier dizendo que tem algo errado, em vermelho, é só digitar: (git add.) para adicionar a pasta nova 
+e em seguida digitar (git status) que a pasta irá aparecer normalmente sem erro.
+* Adicionar a pasta nova do PC para o git na Web, digitar (git commit -m "escrever um texto coerente para que o programa leia e que faça sentido
+ com o que eu quero).
+* Para subir o arquivo pra web digitar: (git push origin main) depois é so atualizar a página. 
